@@ -1,0 +1,24 @@
+Bottleneck @ file:///croot/bottleneck_1731058641041/work
+Brotli @ file:///croot/brotli-split_1736182456865/work
+contourpy @ file:///croot/contourpy_1732540045555/work
+cycler @ file:///tmp/build/80754af9/cycler_1637851556182/work
+fonttools @ file:///croot/fonttools_1737039080035/work
+kiwisolver @ file:///croot/kiwisolver_1737039087198/work
+matplotlib==3.10.0
+numexpr @ file:///croot/numexpr_1730215937391/work
+numpy @ file:///croot/numpy_and_numpy_base_1738078506782/work/dist/numpy-2.2.2-cp311-cp311-linux_x86_64.whl#sha256=af1d58c87616e9aeae484e37e371ca29ddeda1092b791ac99f12275101c20252
+packaging @ file:///croot/packaging_1734472117206/work
+pandas @ file:///croot/pandas_1732735089971/work/dist/pandas-2.2.3-cp311-cp311-linux_x86_64.whl#sha256=884420a58b11b4c9b7f4df21046caaae9229522b672b557f0f98c84251141fc5
+pillow @ file:///home/conda/feedstock_root/build_artifacts/pillow_1735929690690/work
+ply==3.11
+pygame @ file:///home/conda/feedstock_root/build_artifacts/pygame_1727636425570/work
+pyparsing @ file:///croot/pyparsing_1731445506121/work
+PyQt5==5.15.10
+PyQt5_sip @ file:///croot/pyqt-split_1736540531116/work/pyqt_sip
+python-dateutil @ file:///croot/python-dateutil_1716495738603/work
+pytz @ file:///croot/pytz_1713974312559/work
+sip @ file:///croot/sip_1736541134699/work
+six @ file:///tmp/build/80754af9/six_1644875935023/work
+tornado @ file:///croot/tornado_1733960490606/work
+tzdata @ file:///croot/python-tzdata_1690578112552/work
+unicodedata2 @ file:///croot/unicodedata2_1736541023050/work
